@@ -1,0 +1,13 @@
+skill,demand_count,demand_pct,taught_in_course,gap_flag
+SQL,157,46.7,True,Covered
+Communication,144,42.9,True,Covered
+Python,108,32.1,True,Covered
+Excel,77,22.9,True,Covered
+Tableau,67,19.9,False,Gap - not taught
+ETL,62,18.5,False,Gap - not taught
+Azure,50,14.9,False,Gap - not taught
+Statistics,48,14.3,True,Covered
+R,48,14.3,False,Gap - not taught
+AWS,46,13.7,False,Gap - not taught
+Power BI,41,12.2,True,Covered
+Machine Learning,37,11.0,False,Gap - not taught

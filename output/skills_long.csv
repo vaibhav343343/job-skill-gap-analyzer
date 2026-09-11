@@ -1,0 +1,886 @@
+title,location,posted_date,salary_annual,skill
+Enterprise Business Analyst,Greater Pittsburgh Region,2023-07-22 04:26:40,,Communication
+Data Engineer,United States,2023-07-22 04:26:40,,Python
+Data Engineer,United States,2023-07-22 04:26:40,,SQL
+Data Scientist/ Product Analyst,"San Francisco, CA",2023-07-22 04:26:40,156000.0,Python
+Data Scientist/ Product Analyst,"San Francisco, CA",2023-07-22 04:26:40,156000.0,SQL
+Data Scientist/ Product Analyst,"San Francisco, CA",2023-07-22 04:26:40,156000.0,Statistics
+Data Scientist/ Product Analyst,"San Francisco, CA",2023-07-22 04:26:40,156000.0,Communication
+Data Analytics Consultant,"Sacramento, CA",2023-07-22 04:26:40,,Power BI
+Data Analytics Consultant,"Sacramento, CA",2023-07-22 04:26:40,,Tableau
+Data Analytics Consultant,"Sacramento, CA",2023-07-22 04:26:40,,ETL
+Data Analytics Consultant,"Sacramento, CA",2023-07-22 04:26:40,,Azure
+IBM TM1 / Planning Analytics Consultants,United States,2023-07-22 04:26:40,,Communication
+Azure Data Engineer,United States,2023-07-22 04:26:40,,Azure
+Senior Data Engineer,"Virginia, United States",2023-07-22 04:26:40,117500.0,Python
+Senior Data Engineer,"Virginia, United States",2023-07-22 04:26:40,117500.0,SQL
+Senior Data Engineer,"Virginia, United States",2023-07-22 04:26:40,117500.0,ETL
+Senior Data Engineer,"Virginia, United States",2023-07-22 04:26:40,117500.0,AWS
+Senior Data Engineer,"Virginia, United States",2023-07-22 04:26:40,117500.0,Azure
+Senior Data Engineer,"Cleveland, OH",2023-07-22 04:26:40,117500.0,Python
+Senior Data Engineer,"Cleveland, OH",2023-07-22 04:26:40,117500.0,SQL
+Senior Data Engineer,"Cleveland, OH",2023-07-22 04:26:40,117500.0,ETL
+Senior Data Engineer,"Cleveland, OH",2023-07-22 04:26:40,117500.0,AWS
+Senior Data Engineer,"Cleveland, OH",2023-07-22 04:26:40,117500.0,Azure
+Business Analyst,"Pontiac, MI",2023-07-22 04:26:40,,Azure
+Data Analyst,"Oklahoma City, OK",2023-07-22 04:26:40,36.5,Python
+Data Analyst,"Oklahoma City, OK",2023-07-22 04:26:40,36.5,SQL
+Data Analyst,"Oklahoma City, OK",2023-07-22 04:26:40,36.5,Excel
+Solution Architect- Data Engineering Any Cloud must have Databricks,United States,2023-07-22 04:26:40,150000.0,Python
+Solution Architect- Data Engineering Any Cloud must have Databricks,United States,2023-07-22 04:26:40,150000.0,SQL
+Solution Architect- Data Engineering Any Cloud must have Databricks,United States,2023-07-22 04:26:40,150000.0,Communication
+Solution Architect- Data Engineering Any Cloud must have Databricks,United States,2023-07-22 04:26:40,150000.0,AWS
+Solution Architect- Data Engineering Any Cloud must have Databricks,United States,2023-07-22 04:26:40,150000.0,Azure
+Business Analyst- Healthcare,United States,2023-07-22 04:26:40,,SQL
+Business Analyst- Healthcare,United States,2023-07-22 04:26:40,,Excel
+Business Analyst- Healthcare,United States,2023-07-22 04:26:40,,Communication
+Business Analyst,"Lyon, MI",2023-07-22 04:26:40,65520.0,Excel
+Data analyst II,"Lake Forest, IL",2023-07-22 04:26:40,,Machine Learning
+Business Analyst - W2 Only,"Louisville, KY",2023-07-22 04:26:40,,Excel
+"Business Analyst, Property",United States,2023-07-22 04:26:40,,Power BI
+"Business Analyst, Property",United States,2023-07-22 04:26:40,,Tableau
+"Business Analyst, Property",United States,2023-07-22 04:26:40,,Excel
+"Business Analyst, Property",United States,2023-07-22 04:26:40,,Communication
+Data Scientist,"Baltimore, MD",2023-07-22 04:26:40,,Python
+Analytics Project Manager,"Irvine, CA",2023-07-22 04:26:40,109200.0,Power BI
+Analytics Project Manager,"Irvine, CA",2023-07-22 04:26:40,109200.0,Excel
+Analytics Project Manager,"Irvine, CA",2023-07-22 04:26:40,109200.0,Communication
+Senior Data Analyst,"Dallas, TX",2023-07-22 04:26:40,,SQL
+Senior Data Analyst,"Dallas, TX",2023-07-22 04:26:40,,Tableau
+Senior Data Analyst,"Dallas, TX",2023-07-22 04:26:40,,ETL
+Senior Data Analyst,"Dallas, TX",2023-07-22 04:26:40,,Communication
+Senior Data Analyst,"Dallas, TX",2023-07-22 04:26:40,,AWS
+Senior Data Engineer,"Miami, FL",2023-07-22 04:26:40,117500.0,Python
+Senior Data Engineer,"Miami, FL",2023-07-22 04:26:40,117500.0,SQL
+Senior Data Engineer,"Miami, FL",2023-07-22 04:26:40,117500.0,ETL
+Senior Data Engineer,"Miami, FL",2023-07-22 04:26:40,117500.0,AWS
+Senior Data Engineer,"Miami, FL",2023-07-22 04:26:40,117500.0,Azure
+Data Engineer/SQL Developer,"Morrisville, PA",2023-07-22 04:26:40,,SQL
+Data Engineer/SQL Developer,"Morrisville, PA",2023-07-22 04:26:40,,Power BI
+Data Engineer/SQL Developer,"Morrisville, PA",2023-07-22 04:26:40,,Excel
+Data Engineer/SQL Developer,"Morrisville, PA",2023-07-22 04:26:40,,Azure
+Data Engineer(Must be local to GA),"Atlanta, GA",2023-07-22 04:26:40,,Python
+Data Engineer(Must be local to GA),"Atlanta, GA",2023-07-22 04:26:40,,SQL
+"Wholesale Business Analyst - Montvale, NJ (Hybrid)","Montvale, NJ",2023-07-22 04:26:40,,SQL
+"Wholesale Business Analyst - Montvale, NJ (Hybrid)","Montvale, NJ",2023-07-22 04:26:40,,Excel
+Gaming Business Analyst,"Bellevue, WA",2023-07-22 04:26:40,98.5,SQL
+Gaming Business Analyst,"Bellevue, WA",2023-07-22 04:26:40,98.5,Power BI
+Gaming Business Analyst,"Bellevue, WA",2023-07-22 04:26:40,98.5,Excel
+Gaming Business Analyst,"Bellevue, WA",2023-07-22 04:26:40,98.5,Communication
+Azure Data Engineer,"Nashville, TN",2023-07-22 04:26:40,,Python
+Azure Data Engineer,"Nashville, TN",2023-07-22 04:26:40,,SQL
+Azure Data Engineer,"Nashville, TN",2023-07-22 04:26:40,,Power BI
+Azure Data Engineer,"Nashville, TN",2023-07-22 04:26:40,,ETL
+Azure Data Engineer,"Nashville, TN",2023-07-22 04:26:40,,Communication
+Azure Data Engineer,"Nashville, TN",2023-07-22 04:26:40,,Azure
+Data Scientist – (Remote),"New York, United States",2023-07-22 04:26:40,,Python
+Data Scientist – (Remote),"New York, United States",2023-07-22 04:26:40,,SQL
+Data Scientist – (Remote),"New York, United States",2023-07-22 04:26:40,,Machine Learning
+Data Scientist – (Remote),"New York, United States",2023-07-22 04:26:40,,Statistics
+Data Scientist – (Remote),"New York, United States",2023-07-22 04:26:40,,R
+ServiceNow Business Analyst,United States,2023-07-22 04:26:40,,Communication
+ServiceNow Business Analyst,United States,2023-07-22 04:26:40,,AWS
+ServiceNow Business Analyst,United States,2023-07-22 04:26:40,,Azure
+Data Analyst,United States,2023-07-22 04:26:40,,SQL
+Data Analyst,United States,2023-07-22 04:26:40,,Communication
+Data Analyst,United States,2023-07-22 04:26:40,,Azure
+Senior Data Engineer,"Chicago, IL",2023-07-22 04:26:40,117500.0,Python
+Senior Data Engineer,"Chicago, IL",2023-07-22 04:26:40,117500.0,SQL
+Senior Data Engineer,"Chicago, IL",2023-07-22 04:26:40,117500.0,ETL
+Senior Data Engineer,"Chicago, IL",2023-07-22 04:26:40,117500.0,AWS
+Senior Data Engineer,"Chicago, IL",2023-07-22 04:26:40,117500.0,Azure
+Senior Data Engineer,"Atlanta, GA",2023-07-22 04:26:40,117500.0,Python
+Senior Data Engineer,"Atlanta, GA",2023-07-22 04:26:40,117500.0,SQL
+Senior Data Engineer,"Atlanta, GA",2023-07-22 04:26:40,117500.0,ETL
+Senior Data Engineer,"Atlanta, GA",2023-07-22 04:26:40,117500.0,AWS
+Senior Data Engineer,"Atlanta, GA",2023-07-22 04:26:40,117500.0,Azure
+Data Scientists / AIML Engineer,"Charlotte, NC",2023-07-22 04:26:40,,Python
+"Senior Vice President, Analytics (New Client)","Chicago, IL",2023-07-22 04:26:40,,Python
+"Senior Vice President, Analytics (New Client)","Chicago, IL",2023-07-22 04:26:40,,SQL
+"Senior Vice President, Analytics (New Client)","Chicago, IL",2023-07-22 04:26:40,,Tableau
+"Senior Vice President, Analytics (New Client)","Chicago, IL",2023-07-22 04:26:40,,Excel
+"Senior Vice President, Analytics (New Client)","Chicago, IL",2023-07-22 04:26:40,,Communication
+"Senior Vice President, Analytics (New Client)","Chicago, IL",2023-07-22 04:26:40,,R
+"Marketing Sciences, Data Scientist",United States,2023-07-22 04:26:40,,Machine Learning
+"Marketing Sciences, Data Scientist",United States,2023-07-22 04:26:40,,Statistics
+Power BI Developer,United States,2023-07-22 04:26:40,119600.0,Power BI
+Microsoft Power BI Developer,"Chicago, IL",2023-07-22 04:26:40,,Python
+Microsoft Power BI Developer,"Chicago, IL",2023-07-22 04:26:40,,Power BI
+Microsoft Power BI Developer,"Chicago, IL",2023-07-22 04:26:40,,Excel
+Microsoft Power BI Developer,"Chicago, IL",2023-07-22 04:26:40,,Communication
+Microsoft Power BI Developer,"Chicago, IL",2023-07-22 04:26:40,,R
+Remote : Senior Business Analyst : Healthcare Billing Exp,"Virginia, United States",2023-07-22 04:26:40,,Communication
+EDI Business Analyst,"Dallas, TX",2023-07-22 04:26:40,,SQL
+EDI Business Analyst,"Dallas, TX",2023-07-22 04:26:40,,Communication
+Data Analytics Manager,"New York, NY",2023-07-22 04:26:40,150000.0,Excel
+Lead Data Scientist,United States,2023-07-22 04:26:40,221000.0,Python
+Business Analyst,"Austin, TX",2023-07-22 04:26:40,,SQL
+Business Analyst,"Austin, TX",2023-07-22 04:26:40,,Communication
+Advisor Business Analyst,"Gainesville, MS",2023-07-22 04:26:40,93650.0,Excel
+Marketing Analytics Manager,Nashville Metropolitan Area,2023-07-22 04:26:40,95000.0,Tableau
+Marketing Analytics Manager,Nashville Metropolitan Area,2023-07-22 04:26:40,95000.0,Statistics
+Marketing Analytics Manager,Nashville Metropolitan Area,2023-07-22 04:26:40,95000.0,Communication
+Power BI Developer,"Phoenix, AZ",2023-07-22 04:26:40,,SQL
+Power BI Developer,"Phoenix, AZ",2023-07-22 04:26:40,,Power BI
+Power BI Developer,"Phoenix, AZ",2023-07-22 04:26:40,,Azure
+Business Analyst,United States,2023-07-22 04:26:40,,SQL
+Business Analyst,United States,2023-07-22 04:26:40,,Tableau
+Data Analytics Manager - Strategic Sourcing,"Manhattan, NY",2023-07-22 04:26:40,140000.0,Excel
+Data Engineer,United States,2023-07-22 04:26:40,131040.0,SQL
+Data Engineer,United States,2023-07-22 04:26:40,131040.0,ETL
+Data Analyst,"Suffern, NY",2023-07-22 04:26:40,,Python
+Data Analyst,"Suffern, NY",2023-07-22 04:26:40,,SQL
+Data Analyst,"Suffern, NY",2023-07-22 04:26:40,,Excel
+Data Analyst,"Suffern, NY",2023-07-22 04:26:40,,Communication
+Data Analyst,"Suffern, NY",2023-07-22 04:26:40,,R
+Senior Data Engineer,"Wilmington, DE",2023-07-22 04:26:40,,Python
+Senior Data Engineer,"Wilmington, DE",2023-07-22 04:26:40,,ETL
+Business Analyst - Principal,"Lakeland, FL",2023-07-22 04:26:40,,SQL
+Business Analyst - Principal,"Lakeland, FL",2023-07-22 04:26:40,,Excel
+Business Analyst/ Tableau Developer,"Malvern, PA",2023-07-22 04:26:40,,Python
+Business Analyst/ Tableau Developer,"Malvern, PA",2023-07-22 04:26:40,,SQL
+Business Analyst/ Tableau Developer,"Malvern, PA",2023-07-22 04:26:40,,Tableau
+Business Analyst/ Tableau Developer,"Malvern, PA",2023-07-22 04:26:40,,Communication
+Data Analyst,"Pittsburgh, PA",2023-07-22 04:26:40,145600.0,SQL
+Data Analyst,"Minneapolis, MN",2023-07-22 04:26:40,,SQL
+Data Analyst,"Minneapolis, MN",2023-07-22 04:26:40,,Communication
+Power BI Data Analyst – (Remote),"Maryland, United States",2023-07-22 04:26:40,,SQL
+Power BI Data Analyst – (Remote),"Maryland, United States",2023-07-22 04:26:40,,Power BI
+Power BI Data Analyst – (Remote),"Maryland, United States",2023-07-22 04:26:40,,Excel
+Senior Business Analyst,"Columbia, SC",2023-07-22 04:26:40,,Excel
+Senior Business Analyst,"Columbia, SC",2023-07-22 04:26:40,,Communication
+Salesforce Business Analyst,Greater St. Louis,2023-07-22 04:26:40,,Communication
+Senior Data Engineer,United States,2023-07-22 04:26:40,,SQL
+Senior Data Engineer,United States,2023-07-22 04:26:40,,Communication
+Senior Data Engineer,United States,2023-07-22 04:26:40,,Azure
+AWS Data Engineer,"Hartford County, CT",2023-07-22 04:26:40,,Python
+AWS Data Engineer,"Hartford County, CT",2023-07-22 04:26:40,,SQL
+AWS Data Engineer,"Hartford County, CT",2023-07-22 04:26:40,,ETL
+AWS Data Engineer,"Hartford County, CT",2023-07-22 04:26:40,,AWS
+Senior Business Analyst,Oklahoma City Metropolitan Area,2023-07-22 04:26:40,107120.0,Communication
+Marketing Analytics Coordinator,"Nashville, TN",2023-07-22 04:26:40,66500.0,Statistics
+Data Scientist,"Fort Bragg, North Carolina, United States",2023-07-22 04:26:40,,Python
+Data Scientist,"Fort Bragg, North Carolina, United States",2023-07-22 04:26:40,,Tableau
+Data Scientist,"Fort Bragg, North Carolina, United States",2023-07-22 04:26:40,,R
+Business Analyst,"Pontiac, MI",2023-07-22 04:26:40,,Azure
+Power BI Developer,"North Chicago, IL",2023-07-22 04:26:40,106080.0,SQL
+Power BI Developer,"North Chicago, IL",2023-07-22 04:26:40,106080.0,Power BI
+Power BI Developer,"North Chicago, IL",2023-07-22 04:26:40,106080.0,Excel
+Power BI Developer,"North Chicago, IL",2023-07-22 04:26:40,106080.0,ETL
+REMOTE - Servicenow Business Analyst,United States,2023-07-22 04:26:40,,Communication
+REMOTE - Servicenow Business Analyst,United States,2023-07-22 04:26:40,,AWS
+REMOTE - Servicenow Business Analyst,United States,2023-07-22 04:26:40,,Azure
+Business Analyst,"Atlanta, GA",2023-07-22 04:26:40,,Communication
+Salesforce Business Analyst,United States,2023-07-22 04:26:40,,Communication
+Data Scientist,"St Louis, MO",2023-07-22 04:26:40,,ETL
+Data Engineer,United States,2023-07-22 04:26:40,,Python
+Data Engineer,United States,2023-07-22 04:26:40,,SQL
+Data Engineer,United States,2023-07-22 04:26:40,,ETL
+IT Data Analytics Analyst,"New York, NY",2023-07-22 04:26:40,,Python
+IT Data Analytics Analyst,"New York, NY",2023-07-22 04:26:40,,SQL
+IT Data Analytics Analyst,"New York, NY",2023-07-22 04:26:40,,Tableau
+IT Data Analytics Analyst,"New York, NY",2023-07-22 04:26:40,,Excel
+IT Data Analytics Analyst,"New York, NY",2023-07-22 04:26:40,,Statistics
+IT Data Analytics Analyst,"New York, NY",2023-07-22 04:26:40,,Communication
+IT Data Analytics Analyst,"New York, NY",2023-07-22 04:26:40,,R
+Business Analyst,United States,2023-07-22 04:26:40,,Communication
+Data architect/Data analyst,"Juno Beach, FL",2023-07-22 04:26:40,,Communication
+Data Analytics Engineer,United States,2023-07-22 04:26:40,,Python
+Data Analytics Engineer,United States,2023-07-22 04:26:40,,SQL
+Data Analytics Engineer,United States,2023-07-22 04:26:40,,Power BI
+Data Analytics Engineer,United States,2023-07-22 04:26:40,,Tableau
+Data Analytics Engineer,United States,2023-07-22 04:26:40,,ETL
+Data Analytics Engineer,United States,2023-07-22 04:26:40,,Communication
+Data Analytics Engineer,United States,2023-07-22 04:26:40,,AWS
+Senior Data Engineer,"Charlotte, NC",2023-07-22 04:26:40,130000.0,Python
+Senior Data Engineer,"Charlotte, NC",2023-07-22 04:26:40,130000.0,SQL
+Senior Data Engineer,"Charlotte, NC",2023-07-22 04:26:40,130000.0,ETL
+Senior Data Engineer,"Charlotte, NC",2023-07-22 04:26:40,130000.0,Azure
+"Senior Data Analyst, Forecasting",New York City Metropolitan Area,2023-07-22 04:26:40,,Power BI
+"Senior Data Analyst, Forecasting",New York City Metropolitan Area,2023-07-22 04:26:40,,Tableau
+Business Analyst With Salesforce PRM,"Santa Clara, CA",2023-07-22 04:26:40,,Communication
+Sr Data Engineer,"Boston, MA",2023-07-22 04:26:40,131040.0,SQL
+Sr Data Engineer,"Boston, MA",2023-07-22 04:26:40,131040.0,ETL
+Associate Data Analyst - Analytics and Insights,"Morris Plains, NJ",2023-07-22 04:26:40,,Python
+Associate Data Analyst - Analytics and Insights,"Morris Plains, NJ",2023-07-22 04:26:40,,SQL
+Associate Data Analyst - Analytics and Insights,"Morris Plains, NJ",2023-07-22 04:26:40,,Tableau
+Associate Data Analyst - Analytics and Insights,"Morris Plains, NJ",2023-07-22 04:26:40,,ETL
+Associate Data Analyst - Analytics and Insights,"Morris Plains, NJ",2023-07-22 04:26:40,,R
+Business Analyst V,"San Francisco, CA",2023-07-22 04:26:40,140400.0,SQL
+Business Analyst V,"San Francisco, CA",2023-07-22 04:26:40,140400.0,Excel
+Business Analyst V,"San Francisco, CA",2023-07-22 04:26:40,140400.0,Communication
+Business Analyst - Marketing,"Kentucky, United States",2023-07-22 04:26:40,,Excel
+Associate Cyber Data Engineer,"Atlanta, GA",2023-07-22 04:26:40,,SQL
+Associate Cyber Data Engineer,"Atlanta, GA",2023-07-22 04:26:40,,ETL
+Associate Cyber Data Engineer,"Charlotte, NC",2023-07-22 04:26:40,,SQL
+Associate Cyber Data Engineer,"Charlotte, NC",2023-07-22 04:26:40,,ETL
+DATA ENGINEER with SQL SSIS SSRS,"Wilmington, DE",2023-07-22 04:26:40,,SQL
+DATA ENGINEER with SQL SSIS SSRS,"Wilmington, DE",2023-07-22 04:26:40,,Power BI
+Entry Level Data Analyst,United States,2023-07-22 04:26:40,,Excel
+Entry Level Data Analyst,United States,2023-07-22 04:26:40,,Communication
+Data Analytics Specialist,"Irvine, CA",2023-07-22 04:26:40,104000.0,Python
+Data Analytics Specialist,"Irvine, CA",2023-07-22 04:26:40,104000.0,SQL
+Data Analytics Specialist,"Irvine, CA",2023-07-22 04:26:40,104000.0,Communication
+Senior Data Engineer (Scala/Spark),NAMER,2023-07-22 04:26:40,,ETL
+Senior Data Engineer (Scala/Spark),NAMER,2023-07-22 04:26:40,,AWS
+Google Analytics Analyst,"McLean, VA",2023-07-22 04:26:40,125000.0,Communication
+Senior Data Analyst,Greater Minneapolis-St. Paul Area,2023-07-22 04:26:40,,Tableau
+Senior Data Analyst,Greater Minneapolis-St. Paul Area,2023-07-22 04:26:40,,Excel
+Principal Data Engineer,United States,2023-07-22 04:26:40,182500.0,Python
+Principal Data Engineer,United States,2023-07-22 04:26:40,182500.0,SQL
+Principal Data Engineer,United States,2023-07-22 04:26:40,182500.0,ETL
+Principal Data Engineer,United States,2023-07-22 04:26:40,182500.0,AWS
+"Business Analyst, AHS Help Desk","Tempe, AZ",2023-07-22 04:26:40,,SQL
+"Business Analyst, AHS Help Desk","Tempe, AZ",2023-07-22 04:26:40,,Tableau
+"Business Analyst, AHS Help Desk","Tempe, AZ",2023-07-22 04:26:40,,Excel
+"Business Analyst, AHS Help Desk","Tempe, AZ",2023-07-22 04:26:40,,ETL
+"Business Analyst, AHS Help Desk","Tempe, AZ",2023-07-22 04:26:40,,Communication
+"Senior Manager, Marketing Analytics","Santa Clara, CA",2023-07-22 04:26:40,,SQL
+Data Analyst,"Boca Raton, FL",2023-07-22 04:26:40,,Python
+Data Analyst,"Boca Raton, FL",2023-07-22 04:26:40,,SQL
+Data Analyst,"Boca Raton, FL",2023-07-22 04:26:40,,Power BI
+Data Analyst,"Boca Raton, FL",2023-07-22 04:26:40,,Tableau
+Data Analyst,"Boca Raton, FL",2023-07-22 04:26:40,,Excel
+Data Analyst,"Boca Raton, FL",2023-07-22 04:26:40,,Communication
+Data Analyst,"Boca Raton, FL",2023-07-22 04:26:40,,R
+"Business Analyst, Relay Mobile","Bellevue, WA",2023-07-22 04:26:40,101300.0,SQL
+"Business Analyst, Relay Mobile","Bellevue, WA",2023-07-22 04:26:40,101300.0,Tableau
+"Business Analyst, Relay Mobile","Bellevue, WA",2023-07-22 04:26:40,101300.0,Excel
+"Business Analyst, Relay Mobile","Bellevue, WA",2023-07-22 04:26:40,101300.0,Machine Learning
+"Business Analyst, Relay Mobile","Bellevue, WA",2023-07-22 04:26:40,101300.0,Statistics
+"Business Analyst, Relay Mobile","Bellevue, WA",2023-07-22 04:26:40,101300.0,ETL
+"Business Analyst, Relay Mobile","Bellevue, WA",2023-07-22 04:26:40,101300.0,Communication
+"Business Analyst, Relay Mobile","Bellevue, WA",2023-07-22 04:26:40,101300.0,AWS
+Power BI Developer,"Detroit, MI",2023-07-22 04:26:40,,SQL
+Power BI Developer,"Detroit, MI",2023-07-22 04:26:40,,Power BI
+Power BI Developer,"Detroit, MI",2023-07-22 04:26:40,,Azure
+Data Engineer,"Dallas, TX",2023-07-22 04:26:40,104000.0,Python
+Data Engineer,"Dallas, TX",2023-07-22 04:26:40,104000.0,SQL
+Data Engineer,"Dallas, TX",2023-07-22 04:26:40,104000.0,Power BI
+Data Engineer,"Dallas, TX",2023-07-22 04:26:40,104000.0,Tableau
+Data Engineer,"Dallas, TX",2023-07-22 04:26:40,104000.0,Azure
+Azure Data engineer,"Seattle, WA",2023-07-22 04:26:40,,Python
+Azure Data engineer,"Seattle, WA",2023-07-22 04:26:40,,Azure
+Senior Data Analyst,United States,2023-07-22 04:26:40,117500.0,Machine Learning
+Senior Data Analyst,United States,2023-07-22 04:26:40,117500.0,Statistics
+Senior Data Analyst,United States,2023-07-22 04:26:40,117500.0,AWS
+SAP Business Analyst – PP/QM,"Bridgewater, NJ",2023-07-22 04:26:40,,Communication
+Lead Development and Analytics Engineer,"Pennsylvania, United States",2023-07-22 04:26:40,152500.0,SQL
+Lead Development and Analytics Engineer,"Pennsylvania, United States",2023-07-22 04:26:40,152500.0,AWS
+Lead Development and Analytics Engineer,"Pennsylvania, United States",2023-07-22 04:26:40,152500.0,Azure
+Senior Data Engineer,United States,2023-07-22 04:26:40,165000.0,Python
+Senior Data Engineer,United States,2023-07-22 04:26:40,165000.0,Tableau
+Senior Data Engineer,United States,2023-07-22 04:26:40,165000.0,ETL
+Senior Data Engineer,United States,2023-07-22 04:26:40,165000.0,Communication
+Senior Data Scientist,"South San Francisco, CA",2023-07-22 04:26:40,,Tableau
+Senior Data Scientist,"South San Francisco, CA",2023-07-22 04:26:40,,Machine Learning
+Senior Data Scientist,"South San Francisco, CA",2023-07-22 04:26:40,,Statistics
+Senior Data Scientist,"South San Francisco, CA",2023-07-22 04:26:40,,R
+Senior Data Scientist,"South San Francisco, CA",2023-07-22 04:26:40,,AWS
+"Specialist, Investment Analytics","Charlotte, NC",2023-07-22 04:26:40,70850.0,Tableau
+"Specialist, Investment Analytics","Charlotte, NC",2023-07-22 04:26:40,70850.0,Excel
+Data Scientist,"Cincinnati, OH",2023-07-22 04:26:40,,Python
+Data Scientist,"Cincinnati, OH",2023-07-22 04:26:40,,SQL
+Data Scientist,"Cincinnati, OH",2023-07-22 04:26:40,,Statistics
+Data Scientist,"Cincinnati, OH",2023-07-22 04:26:40,,Communication
+Data Scientist,"Cincinnati, OH",2023-07-22 04:26:40,,R
+Data Scientist,"Cincinnati, OH",2023-07-22 04:26:40,,Azure
+Data Scientist- AD Tech,"Santa Clara, CA",2023-07-22 04:26:40,,Python
+Data Scientist- AD Tech,"Santa Clara, CA",2023-07-22 04:26:40,,SQL
+Data Scientist- AD Tech,"Santa Clara, CA",2023-07-22 04:26:40,,Machine Learning
+Data Scientist- AD Tech,"Santa Clara, CA",2023-07-22 04:26:40,,Statistics
+Data Scientist- AD Tech,"Santa Clara, CA",2023-07-22 04:26:40,,AWS
+Senior Data Scientist,United States,2023-07-22 04:26:40,,Python
+Senior Data Scientist,United States,2023-07-22 04:26:40,,SQL
+Senior Data Scientist,United States,2023-07-22 04:26:40,,Tableau
+Senior Data Scientist,United States,2023-07-22 04:26:40,,Machine Learning
+Senior Data Scientist,United States,2023-07-22 04:26:40,,Statistics
+Senior Data Scientist,United States,2023-07-22 04:26:40,,AWS
+Senior Data Scientist,"Pontiac, MI",2023-07-22 04:26:40,,Python
+Senior Data Scientist,"Pontiac, MI",2023-07-22 04:26:40,,SQL
+Senior Data Scientist,"Pontiac, MI",2023-07-22 04:26:40,,Tableau
+Senior Data Scientist,"Pontiac, MI",2023-07-22 04:26:40,,Machine Learning
+Senior Data Scientist,"Pontiac, MI",2023-07-22 04:26:40,,Statistics
+Senior Data Scientist,"Pontiac, MI",2023-07-22 04:26:40,,Communication
+Senior Data Scientist,"Pontiac, MI",2023-07-22 04:26:40,,R
+Data Engineer,"Cleveland, GA",2023-07-22 04:26:40,,Python
+Data Engineer,"Cleveland, GA",2023-07-22 04:26:40,,SQL
+Data Engineer,"Cleveland, GA",2023-07-22 04:26:40,,Tableau
+Data Engineer,"Cleveland, GA",2023-07-22 04:26:40,,Communication
+Data Engineer,"Cleveland, GA",2023-07-22 04:26:40,,R
+Data Engineer,"Cleveland, GA",2023-07-22 04:26:40,,Azure
+"Analyst, Vendor Analytics","San Diego, CA",2023-07-22 04:26:40,174250.0,Excel
+"Analyst, Vendor Analytics","San Diego, CA",2023-07-22 04:26:40,174250.0,Communication
+"Sr. Analyst, Analytics","San Diego, CA",2023-07-22 04:26:40,108900.0,SQL
+"Sr. Analyst, Analytics","San Diego, CA",2023-07-22 04:26:40,108900.0,Power BI
+"Sr. Analyst, Analytics","San Diego, CA",2023-07-22 04:26:40,108900.0,Tableau
+"Sr. Analyst, Analytics","San Diego, CA",2023-07-22 04:26:40,108900.0,Excel
+"Sr. Analyst, Analytics","San Diego, CA",2023-07-22 04:26:40,108900.0,Statistics
+"Sr. Analyst, Analytics","San Diego, CA",2023-07-22 04:26:40,108900.0,Communication
+Senior Lead Data Scientist,United States,2023-07-22 04:26:40,,Python
+Senior Lead Data Scientist,United States,2023-07-22 04:26:40,,Machine Learning
+Senior Lead Data Scientist,United States,2023-07-22 04:26:40,,Statistics
+Senior Lead Data Scientist,United States,2023-07-22 04:26:40,,Communication
+Senior Lead Data Scientist,United States,2023-07-22 04:26:40,,AWS
+Senior Lead Data Scientist,United States,2023-07-22 04:26:40,,Azure
+Senior Data Engineer,"Temple Terrace, FL",2023-07-22 04:26:40,,Python
+Senior Data Engineer,"Temple Terrace, FL",2023-07-22 04:26:40,,SQL
+Senior Data Engineer,"Temple Terrace, FL",2023-07-22 04:26:40,,Tableau
+Senior Data Engineer,"Alpharetta, GA",2023-07-22 04:26:40,,Python
+Senior Data Engineer,"Alpharetta, GA",2023-07-22 04:26:40,,SQL
+Senior Data Engineer,"Alpharetta, GA",2023-07-22 04:26:40,,Tableau
+Senior Marketing Data Analyst,United States,2023-07-22 04:26:40,,SQL
+Senior Marketing Data Analyst,United States,2023-07-22 04:26:40,,Communication
+Senior Marketing Data Analyst,United States,2023-07-22 04:26:40,,R
+Local Strategy & Analytics Manager - Coastal Plains,"Austin, TX",2023-07-22 04:26:40,,Excel
+Local Strategy & Analytics Manager - Coastal Plains,"Irving, TX",2023-07-22 04:26:40,,Excel
+Senior Data Engineer,"Irving, TX",2023-07-22 04:26:40,,Python
+Senior Data Engineer,"Irving, TX",2023-07-22 04:26:40,,SQL
+Senior Data Engineer,"Irving, TX",2023-07-22 04:26:40,,Tableau
+JD Edwards Business Analyst,"Mount Prospect, IL",2023-07-22 04:26:40,,SQL
+JD Edwards Business Analyst,"Mount Prospect, IL",2023-07-22 04:26:40,,Communication
+JD Edwards Business Analyst,"Mount Prospect, IL",2023-07-22 04:26:40,,R
+"Associate Director, Advanced Analytics (Oncology)","Cambridge, MA",2023-07-22 04:26:40,174250.0,Python
+"Associate Director, Advanced Analytics (Oncology)","Cambridge, MA",2023-07-22 04:26:40,174250.0,Tableau
+"Associate Director, Advanced Analytics (Oncology)","Cambridge, MA",2023-07-22 04:26:40,174250.0,Machine Learning
+"Associate Director, Advanced Analytics (Oncology)","Cambridge, MA",2023-07-22 04:26:40,174250.0,Statistics
+"Associate Director, Advanced Analytics (Oncology)","Cambridge, MA",2023-07-22 04:26:40,174250.0,Communication
+"Associate Director, Advanced Analytics (Oncology)","Cambridge, MA",2023-07-22 04:26:40,174250.0,R
+"People Analytics Manager , People Analytics","Nashville, TN",2023-07-22 04:26:40,163450.0,Python
+"People Analytics Manager , People Analytics","Nashville, TN",2023-07-22 04:26:40,163450.0,SQL
+"People Analytics Manager , People Analytics","Nashville, TN",2023-07-22 04:26:40,163450.0,Power BI
+"People Analytics Manager , People Analytics","Nashville, TN",2023-07-22 04:26:40,163450.0,Tableau
+"People Analytics Manager , People Analytics","Nashville, TN",2023-07-22 04:26:40,163450.0,Excel
+"People Analytics Manager , People Analytics","Nashville, TN",2023-07-22 04:26:40,163450.0,Statistics
+"People Analytics Manager , People Analytics","Nashville, TN",2023-07-22 04:26:40,163450.0,Communication
+Data Engineer,"New Jersey, United States",2023-07-22 04:26:40,,Tableau
+Data Engineer,"New Jersey, United States",2023-07-22 04:26:40,,ETL
+Data Engineer,"New Jersey, United States",2023-07-22 04:26:40,,Communication
+Data Engineer,"New Jersey, United States",2023-07-22 04:26:40,,AWS
+BI Developer,"Phoenix, AZ",2023-07-22 04:26:40,156000.0,SQL
+BI Developer,"Phoenix, AZ",2023-07-22 04:26:40,156000.0,Power BI
+Lead Data Engineer,United States,2023-07-22 04:26:40,,SQL
+Lead Data Engineer,United States,2023-07-22 04:26:40,,Communication
+Lead Data Engineer,United States,2023-07-22 04:26:40,,Azure
+Senior Data Engineer (Public Sector),"Arlington, VA",2023-07-22 04:26:40,121500.0,Python
+Senior Data Engineer (Public Sector),"Arlington, VA",2023-07-22 04:26:40,121500.0,SQL
+Senior Data Engineer (Public Sector),"Arlington, VA",2023-07-22 04:26:40,121500.0,Power BI
+Senior Data Engineer (Public Sector),"Arlington, VA",2023-07-22 04:26:40,121500.0,Tableau
+Senior Data Engineer (Public Sector),"Arlington, VA",2023-07-22 04:26:40,121500.0,ETL
+Senior Data Engineer (Public Sector),"Arlington, VA",2023-07-22 04:26:40,121500.0,AWS
+Senior Data Engineer (Public Sector),"Arlington, VA",2023-07-22 04:26:40,121500.0,Azure
+Compliance Business Analyst,"Cupertino, CA",2023-07-22 04:26:40,,Communication
+Business Analyst - SAP HR Payroll,"Austin, TX",2023-07-22 04:26:40,98800.0,Statistics
+Business Analyst - SAP HR Payroll,"Austin, TX",2023-07-22 04:26:40,98800.0,Communication
+Data Analyst,United States,2023-07-22 04:26:40,,Excel
+Data Analyst,United States,2023-07-22 04:26:40,,Communication
+Human Resources Business Analyst,New York City Metropolitan Area,2023-07-22 04:26:40,90000.0,Excel
+Product Data Analyst,United States,2023-07-22 04:26:40,132500.0,Python
+Product Data Analyst,United States,2023-07-22 04:26:40,132500.0,SQL
+ERP Business Analyst,Buffalo-Niagara Falls Area,2023-07-22 04:26:40,67500.0,Communication
+Business Analyst,"City of Industry, CA",2023-07-22 04:26:40,73000.0,Excel
+Business Analyst,"City of Industry, CA",2023-07-22 04:26:40,73000.0,Statistics
+Business Analyst,"City of Industry, CA",2023-07-22 04:26:40,73000.0,Communication
+"Consultant, Analytics & Technology - 515422","Nashville, TN",2023-07-22 04:26:40,,Python
+"Consultant, Analytics & Technology - 515422","Nashville, TN",2023-07-22 04:26:40,,SQL
+"Consultant, Analytics & Technology - 515422","Nashville, TN",2023-07-22 04:26:40,,Power BI
+"Consultant, Analytics & Technology - 515422","Nashville, TN",2023-07-22 04:26:40,,Tableau
+"Consultant, Analytics & Technology - 515422","Nashville, TN",2023-07-22 04:26:40,,Communication
+"Consultant, Analytics & Technology - 515422","Nashville, TN",2023-07-22 04:26:40,,R
+Senior Professional Business Analyst,"Kentucky, United States",2023-07-22 04:26:40,78800.0,SQL
+Senior Professional Business Analyst,"Kentucky, United States",2023-07-22 04:26:40,78800.0,Excel
+Senior Professional Business Analyst,"Kentucky, United States",2023-07-22 04:26:40,78800.0,Communication
+Power BI Developer,United States,2023-07-22 04:26:40,,Power BI
+Power BI Developer,United States,2023-07-22 04:26:40,,Communication
+Staff Data Engineer,"Milwaukee, WI",2023-07-22 04:26:40,,Python
+Staff Data Engineer,"Milwaukee, WI",2023-07-22 04:26:40,,SQL
+Staff Data Engineer,"Milwaukee, WI",2023-07-22 04:26:40,,ETL
+Data Analytics Solutions Engineer,United States,2023-07-22 04:26:40,,SQL
+Data Analytics Solutions Engineer,United States,2023-07-22 04:26:40,,ETL
+Data Analytics Solutions Engineer,United States,2023-07-22 04:26:40,,Azure
+"(Hybrid) Senior Manager, Market Risk Quantitative Analytics","McLean, VA",2023-07-22 04:26:40,,Python
+"(Hybrid) Senior Manager, Market Risk Quantitative Analytics","McLean, VA",2023-07-22 04:26:40,,SQL
+"(Hybrid) Senior Manager, Market Risk Quantitative Analytics","McLean, VA",2023-07-22 04:26:40,,Machine Learning
+"(Hybrid) Senior Manager, Market Risk Quantitative Analytics","McLean, VA",2023-07-22 04:26:40,,ETL
+"(Hybrid) Senior Manager, Market Risk Quantitative Analytics","McLean, VA",2023-07-22 04:26:40,,Communication
+Lead Business Analyst - Federal,United States,2023-07-22 04:26:40,,Excel
+Lead Business Analyst - Federal,United States,2023-07-22 04:26:40,,Communication
+Manager – Development Analytics,"Memphis, TN",2023-07-22 04:26:40,,Communication
+Natural Language Processing (NLP) Data Scientist.,United States,2023-07-22 04:26:40,,Python
+Natural Language Processing (NLP) Data Scientist.,United States,2023-07-22 04:26:40,,Machine Learning
+Natural Language Processing (NLP) Data Scientist.,United States,2023-07-22 04:26:40,,Statistics
+Gaming Business Analyst,"Bellevue, WA",2023-07-22 04:26:40,,Python
+Gaming Business Analyst,"Bellevue, WA",2023-07-22 04:26:40,,SQL
+Gaming Business Analyst,"Bellevue, WA",2023-07-22 04:26:40,,Power BI
+Gaming Business Analyst,"Bellevue, WA",2023-07-22 04:26:40,,Excel
+Gaming Business Analyst,"Bellevue, WA",2023-07-22 04:26:40,,Communication
+Data Engineer,United States,2023-07-22 04:26:40,,Python
+Data Engineer,United States,2023-07-22 04:26:40,,SQL
+Data Engineer,United States,2023-07-22 04:26:40,,ETL
+Data Engineer,United States,2023-07-22 04:26:40,,Communication
+Senior Business Analyst/ Sr. Business Architect,"Phoenix, AZ",2023-07-22 04:26:40,,SQL
+Senior Business Analyst/ Sr. Business Architect,"Phoenix, AZ",2023-07-22 04:26:40,,Communication
+Manager Data Analytics,"Bedminster, NJ",2023-07-22 04:26:40,,Excel
+Manager Data Analytics,"Bedminster, NJ",2023-07-22 04:26:40,,Communication
+Manager Data Analytics,"Bedminster, NJ",2023-07-22 04:26:40,,AWS
+Business Analyst (with AI /ML exp),United States,2023-07-22 04:26:40,,Communication
+Business Analyst,"California, United States",2023-07-22 04:26:40,,Communication
+Business Analyst,United States,2023-07-22 04:26:40,,Excel
+Business Analyst,United States,2023-07-22 04:26:40,,Communication
+Data Scientist,"St Louis, MO",2023-07-22 04:26:40,,Python
+Data Scientist,"St Louis, MO",2023-07-22 04:26:40,,ETL
+Data Scientist,"St Louis, MO",2023-07-22 04:26:40,,R
+Environmental Engineer & Data Scientist,"Denver, CO",2023-07-22 04:26:40,,Python
+Environmental Engineer & Data Scientist,"Denver, CO",2023-07-22 04:26:40,,Machine Learning
+Environmental Engineer & Data Scientist,"Denver, CO",2023-07-22 04:26:40,,R
+Data Engineer (Oracle and DataStage).,United States,2023-07-22 04:26:40,,SQL
+Data Engineer (Oracle and DataStage).,United States,2023-07-22 04:26:40,,ETL
+Data Engineer (Oracle and DataStage).,United States,2023-07-22 04:26:40,,AWS
+Data Engineer (Oracle and DataStage).,United States,2023-07-22 04:26:40,,Azure
+Business Analyst - Healthcare,"Hauppauge, NY",2023-07-22 04:26:40,,Python
+Business Analyst - Healthcare,"Hauppauge, NY",2023-07-22 04:26:40,,SQL
+Data Analyst III,"Chicago, IL",2023-07-22 04:26:40,,Python
+Data Analyst III,"Chicago, IL",2023-07-22 04:26:40,,Power BI
+Data Analyst III,"Chicago, IL",2023-07-22 04:26:40,,Excel
+Data Analyst III,"Chicago, IL",2023-07-22 04:26:40,,Communication
+Data Analyst III,"Chicago, IL",2023-07-22 04:26:40,,R
+Staff Data Engineer and Team Lead,"Cambridge, MA",2023-07-22 04:26:40,,Python
+Staff Data Engineer and Team Lead,"Cambridge, MA",2023-07-22 04:26:40,,R
+Staff Data Engineer and Team Lead,"Cambridge, MA",2023-07-22 04:26:40,,AWS
+Staff Data Engineer and Team Lead,"Cambridge, MA",2023-07-22 04:26:40,,Azure
+Staff Data Engineer and Team Lead,"Seattle, WA",2023-07-22 04:26:40,,Python
+Staff Data Engineer and Team Lead,"Seattle, WA",2023-07-22 04:26:40,,R
+Staff Data Engineer and Team Lead,"Seattle, WA",2023-07-22 04:26:40,,AWS
+Staff Data Engineer and Team Lead,"Seattle, WA",2023-07-22 04:26:40,,Azure
+Staff Data Engineer and Team Lead,"Collegeville, PA",2023-07-22 04:26:40,,Python
+Staff Data Engineer and Team Lead,"Collegeville, PA",2023-07-22 04:26:40,,R
+Staff Data Engineer and Team Lead,"Collegeville, PA",2023-07-22 04:26:40,,AWS
+Staff Data Engineer and Team Lead,"Collegeville, PA",2023-07-22 04:26:40,,Azure
+Staff Data Engineer and Team Lead,"South San Francisco, CA",2023-07-22 04:26:40,,Python
+Staff Data Engineer and Team Lead,"South San Francisco, CA",2023-07-22 04:26:40,,R
+Staff Data Engineer and Team Lead,"South San Francisco, CA",2023-07-22 04:26:40,,AWS
+Staff Data Engineer and Team Lead,"South San Francisco, CA",2023-07-22 04:26:40,,Azure
+Senior Human Resources Data Analyst (Senior Management Systems Analyst),"Seattle, WA",2023-07-22 04:26:40,107130.4,Python
+Senior Human Resources Data Analyst (Senior Management Systems Analyst),"Seattle, WA",2023-07-22 04:26:40,107130.4,SQL
+Senior Human Resources Data Analyst (Senior Management Systems Analyst),"Seattle, WA",2023-07-22 04:26:40,107130.4,Power BI
+Senior Human Resources Data Analyst (Senior Management Systems Analyst),"Seattle, WA",2023-07-22 04:26:40,107130.4,Tableau
+Senior Data Analyst - eCommerce,"San Francisco, CA",2023-07-22 04:26:40,,SQL
+Senior Data Analyst - eCommerce,"San Francisco, CA",2023-07-22 04:26:40,,Tableau
+Senior Data Analyst - eCommerce,"San Francisco, CA",2023-07-22 04:26:40,,Excel
+Senior Data Analyst - eCommerce,"San Francisco, CA",2023-07-22 04:26:40,,AWS
+Senior Business Analyst,"Chicago, IL",2023-07-22 04:26:40,,Excel
+Senior Business Analyst,"Chicago, IL",2023-07-22 04:26:40,,Communication
+"Business Analyst – Decatur, IL","Decatur, IL",2023-07-22 04:26:40,,Excel
+"Business Analyst – Decatur, IL","Decatur, IL",2023-07-22 04:26:40,,Statistics
+"Business Analyst – Decatur, IL","Decatur, IL",2023-07-22 04:26:40,,Communication
+"Business Analyst – Decatur, IL","Decatur, IL",2023-07-22 04:26:40,,R
+"University Associate, D&E Valuation & Transaction Disputes (Forensic Accounting/Data Analytics)","Chicago, IL",2023-07-22 04:26:40,,SQL
+"University Associate, D&E Valuation & Transaction Disputes (Forensic Accounting/Data Analytics)","Chicago, IL",2023-07-22 04:26:40,,Power BI
+"University Associate, D&E Valuation & Transaction Disputes (Forensic Accounting/Data Analytics)","Chicago, IL",2023-07-22 04:26:40,,Tableau
+"University Associate, D&E Valuation & Transaction Disputes (Forensic Accounting/Data Analytics)","Chicago, IL",2023-07-22 04:26:40,,Excel
+"University Associate, D&E Valuation & Transaction Disputes (Forensic Accounting/Data Analytics)","Chicago, IL",2023-07-22 04:26:40,,Communication
+Senior Data Scientist - Algorithms,"Seattle, WA",2023-07-22 04:26:40,171000.0,Python
+Senior Data Scientist - Algorithms,"Seattle, WA",2023-07-22 04:26:40,171000.0,Machine Learning
+Senior Data Scientist - Algorithms,"Seattle, WA",2023-07-22 04:26:40,171000.0,Communication
+"Data Analyst, Real-Time Supply Management (Hybrid)","San Francisco, CA",2023-07-22 04:26:40,135000.0,SQL
+"Data Analyst, Real-Time Supply Management (Hybrid)","San Francisco, CA",2023-07-22 04:26:40,135000.0,Communication
+Sr. Principal Engineer – Transactional Analytics /C++ (Remote),United States,2023-07-22 04:26:40,207000.0,Machine Learning
+Sr. Principal Engineer – Transactional Analytics /C++ (Remote),United States,2023-07-22 04:26:40,207000.0,AWS
+Sr. Principal Engineer – Transactional Analytics /C++ (Remote),United States,2023-07-22 04:26:40,207000.0,Azure
+"Senior Manager, Cost Model Analytics - Remote","Atlanta, GA",2023-07-22 04:26:40,146040.0,SQL
+"Senior Manager, Cost Model Analytics - Remote","Atlanta, GA",2023-07-22 04:26:40,146040.0,Excel
+Data Scientist,"Chantilly, VA",2023-07-22 04:26:40,119550.0,Python
+Data Scientist,"Chantilly, VA",2023-07-22 04:26:40,119550.0,SQL
+Data Scientist,"Chantilly, VA",2023-07-22 04:26:40,119550.0,Tableau
+Data Scientist,"Chantilly, VA",2023-07-22 04:26:40,119550.0,Machine Learning
+Data Scientist,"Chantilly, VA",2023-07-22 04:26:40,119550.0,Statistics
+Data Scientist,"Chantilly, VA",2023-07-22 04:26:40,119550.0,R
+Data Scientist,"Chantilly, VA",2023-07-22 04:26:40,119550.0,AWS
+Data Scientist,"Atlanta, GA",2023-07-22 04:26:40,,Python
+Data Scientist,"Atlanta, GA",2023-07-22 04:26:40,,SQL
+Data Scientist,"Atlanta, GA",2023-07-22 04:26:40,,Machine Learning
+Data Scientist,"Atlanta, GA",2023-07-22 04:26:40,,R
+"Senior Manager, Cost Model Analytics - Hybrid","North Richland Hills, TX",2023-07-22 04:26:40,,SQL
+"Senior Manager, Cost Model Analytics - Hybrid","North Richland Hills, TX",2023-07-22 04:26:40,,Excel
+Data Scientist,"McLean, VA",2023-07-22 04:26:40,119550.0,Python
+Data Scientist,"McLean, VA",2023-07-22 04:26:40,119550.0,SQL
+Data Scientist,"McLean, VA",2023-07-22 04:26:40,119550.0,Tableau
+Data Scientist,"McLean, VA",2023-07-22 04:26:40,119550.0,Machine Learning
+Data Scientist,"McLean, VA",2023-07-22 04:26:40,119550.0,Statistics
+Data Scientist,"McLean, VA",2023-07-22 04:26:40,119550.0,R
+Data Scientist,"McLean, VA",2023-07-22 04:26:40,119550.0,AWS
+Data Scientist,"Norfolk, VA",2023-07-22 04:26:40,119500.0,Python
+Data Scientist,"Norfolk, VA",2023-07-22 04:26:40,119500.0,SQL
+Data Scientist,"Norfolk, VA",2023-07-22 04:26:40,119500.0,Tableau
+Data Scientist,"Norfolk, VA",2023-07-22 04:26:40,119500.0,Machine Learning
+Data Scientist,"Norfolk, VA",2023-07-22 04:26:40,119500.0,Statistics
+Business Analyst,"Stamford, CT",2023-07-22 04:26:40,,Excel
+Senior Data Analyst,"Memphis, TN",2023-07-22 04:26:40,109500.0,Python
+Senior Data Analyst,"Memphis, TN",2023-07-22 04:26:40,109500.0,SQL
+Senior Data Analyst,"Memphis, TN",2023-07-22 04:26:40,109500.0,Power BI
+Senior Data Analyst,"Memphis, TN",2023-07-22 04:26:40,109500.0,Excel
+Senior Data Analyst,"Memphis, TN",2023-07-22 04:26:40,109500.0,Communication
+Analytics Data Solutions Architect - Streaming,"Scottsdale, AZ",2023-07-22 04:26:40,,SQL
+Analytics Data Solutions Architect - Streaming,"Scottsdale, AZ",2023-07-22 04:26:40,,Excel
+Analytics Data Solutions Architect - Streaming,"Scottsdale, AZ",2023-07-22 04:26:40,,Machine Learning
+Analytics Data Solutions Architect - Streaming,"Scottsdale, AZ",2023-07-22 04:26:40,,Statistics
+Analytics Data Solutions Architect - Streaming,"Scottsdale, AZ",2023-07-22 04:26:40,,AWS
+Supply Chain Data Analyst,"Charlotte, NC",2023-07-22 04:26:40,,Excel
+Implementation Data Engineer,"North Dakota, United States",2023-07-22 04:26:40,94900.0,Python
+Implementation Data Engineer,"North Dakota, United States",2023-07-22 04:26:40,94900.0,SQL
+Implementation Data Engineer,"North Dakota, United States",2023-07-22 04:26:40,94900.0,Tableau
+Implementation Data Engineer,"North Dakota, United States",2023-07-22 04:26:40,94900.0,ETL
+Implementation Data Engineer,"North Dakota, United States",2023-07-22 04:26:40,94900.0,Communication
+Senior Analytics Engineer,"San Francisco, CA",2023-07-22 04:26:40,,SQL
+Senior Analytics Engineer,"San Francisco, CA",2023-07-22 04:26:40,,ETL
+Senior Analytics Engineer,"San Francisco, CA",2023-07-22 04:26:40,,Communication
+ServiceNow CMDB Business Analyst,"Seattle, WA",2023-07-22 04:26:40,115000.0,Communication
+"Manager, Analytics - Underwriting","Culver City, CA",2023-07-22 04:26:40,300000.0,Python
+"Manager, Analytics - Underwriting","Culver City, CA",2023-07-22 04:26:40,300000.0,SQL
+"Manager, Analytics - Underwriting","Culver City, CA",2023-07-22 04:26:40,300000.0,Excel
+"Manager, Analytics - Underwriting","Culver City, CA",2023-07-22 04:26:40,300000.0,R
+Pharmacy Business & Analytics Coordinator,"New York, NY",2023-07-22 04:26:40,66206.4,Power BI
+Pharmacy Business & Analytics Coordinator,"New York, NY",2023-07-22 04:26:40,66206.4,Tableau
+Pharmacy Business & Analytics Coordinator,"New York, NY",2023-07-22 04:26:40,66206.4,Excel
+"Director, Analytics - Underwriting","Culver City, CA",2023-07-22 04:26:40,300000.0,Python
+"Director, Analytics - Underwriting","Culver City, CA",2023-07-22 04:26:40,300000.0,SQL
+"Director, Analytics - Underwriting","Culver City, CA",2023-07-22 04:26:40,300000.0,Excel
+"Director, Analytics - Underwriting","Culver City, CA",2023-07-22 04:26:40,300000.0,R
+Salesforce Business Analyst (Service Focused),"Sunnyvale, CA",2023-07-22 04:26:40,125000.0,Communication
+Epic BI Developer,United States,2023-07-22 04:26:40,,SQL
+Epic BI Developer,United States,2023-07-22 04:26:40,,Statistics
+Epic BI Developer,United States,2023-07-22 04:26:40,,Communication
+Vulnerability Data Analyst,"Charlotte, NC",2023-07-22 04:26:40,,Python
+Vulnerability Data Analyst,"Charlotte, NC",2023-07-22 04:26:40,,SQL
+Vulnerability Data Analyst,"Charlotte, NC",2023-07-22 04:26:40,,Tableau
+Vulnerability Data Analyst,"Charlotte, NC",2023-07-22 04:26:40,,Excel
+Vulnerability Data Analyst,"Charlotte, NC",2023-07-22 04:26:40,,ETL
+Vulnerability Data Analyst,"Charlotte, NC",2023-07-22 04:26:40,,Communication
+Project Manager / Scrum Master with Business Analyst Experience,"Fort Lauderdale, FL",2023-07-22 04:26:40,,SQL
+Project Manager / Scrum Master with Business Analyst Experience,"Fort Lauderdale, FL",2023-07-22 04:26:40,,Excel
+Project Manager / Scrum Master with Business Analyst Experience,"Fort Lauderdale, FL",2023-07-22 04:26:40,,Communication
+"Research Director/Vice President - Insights + Analytics, True Global Intelligence (Hybrid)","St Louis, MO",2023-07-22 04:26:40,128650.0,Communication
+Senior Data Engineer,United States,2023-07-22 04:26:40,,Python
+Senior Data Engineer,United States,2023-07-22 04:26:40,,SQL
+Senior Data Engineer,United States,2023-07-22 04:26:40,,AWS
+Senior Business Analyst,United States,2023-07-22 04:26:40,93600.0,Excel
+Senior Business Analyst,United States,2023-07-22 04:26:40,93600.0,Communication
+Associate Analyst - Business Analytics,"Detroit, MI",2023-07-22 04:26:40,,Python
+Associate Analyst - Business Analytics,"Detroit, MI",2023-07-22 04:26:40,,SQL
+Associate Analyst - Business Analytics,"Detroit, MI",2023-07-22 04:26:40,,Power BI
+Associate Analyst - Business Analytics,"Detroit, MI",2023-07-22 04:26:40,,Excel
+Associate Analyst - Business Analytics,"Detroit, MI",2023-07-22 04:26:40,,Statistics
+Associate Analyst - Business Analytics,"Detroit, MI",2023-07-22 04:26:40,,Communication
+Digital Experiences Analytics Senior Manager,"New York, NY",2023-07-22 04:26:40,256850.0,Communication
+Senior Data Scientist,"Mountain View, CA",2023-07-22 04:26:40,183000.0,Python
+Senior Data Scientist,"Mountain View, CA",2023-07-22 04:26:40,183000.0,SQL
+Senior Data Scientist,"Mountain View, CA",2023-07-22 04:26:40,183000.0,Statistics
+Senior Data Scientist,"Mountain View, CA",2023-07-22 04:26:40,183000.0,R
+Senior Data Scientist,"San Jose, CA",2023-07-22 04:26:40,183000.0,Python
+Senior Data Scientist,"San Jose, CA",2023-07-22 04:26:40,183000.0,SQL
+Senior Data Scientist,"San Jose, CA",2023-07-22 04:26:40,183000.0,Statistics
+Senior Data Scientist,"San Jose, CA",2023-07-22 04:26:40,183000.0,R
+Senior Data Scientist,"Seattle, WA",2023-07-22 04:26:40,183000.0,Python
+Senior Data Scientist,"Seattle, WA",2023-07-22 04:26:40,183000.0,SQL
+Senior Data Scientist,"Seattle, WA",2023-07-22 04:26:40,183000.0,Statistics
+Senior Data Scientist,"Seattle, WA",2023-07-22 04:26:40,183000.0,R
+Senior Data Scientist,"Kirkland, WA",2023-07-22 04:26:40,183000.0,Python
+Senior Data Scientist,"Kirkland, WA",2023-07-22 04:26:40,183000.0,SQL
+Senior Data Scientist,"Kirkland, WA",2023-07-22 04:26:40,183000.0,Statistics
+Senior Data Scientist,"Kirkland, WA",2023-07-22 04:26:40,183000.0,R
+Senior Data Scientist,"Austin, TX",2023-07-22 04:26:40,183000.0,Python
+Senior Data Scientist,"Austin, TX",2023-07-22 04:26:40,183000.0,SQL
+Senior Data Scientist,"Austin, TX",2023-07-22 04:26:40,183000.0,Statistics
+Senior Data Scientist,"Austin, TX",2023-07-22 04:26:40,183000.0,R
+"Data Engineer, Google Nest","Mountain View, CA",2023-07-22 04:26:40,142000.0,Python
+"Data Engineer, Google Nest","Mountain View, CA",2023-07-22 04:26:40,142000.0,SQL
+"Data Engineer, Google Nest","Mountain View, CA",2023-07-22 04:26:40,142000.0,Tableau
+"Data Engineer, Google Nest","Mountain View, CA",2023-07-22 04:26:40,142000.0,Machine Learning
+"Data Engineer, Google Nest","Mountain View, CA",2023-07-22 04:26:40,142000.0,Communication
+Senior Data Scientist,"San Diego, CA",2023-07-22 04:26:40,183000.0,Python
+Senior Data Scientist,"San Diego, CA",2023-07-22 04:26:40,183000.0,SQL
+Senior Data Scientist,"San Diego, CA",2023-07-22 04:26:40,183000.0,Statistics
+Senior Data Scientist,"San Diego, CA",2023-07-22 04:26:40,183000.0,R
+Senior Data Scientist,"Los Angeles, CA",2023-07-22 04:26:40,183000.0,Python
+Senior Data Scientist,"Los Angeles, CA",2023-07-22 04:26:40,183000.0,SQL
+Senior Data Scientist,"Los Angeles, CA",2023-07-22 04:26:40,183000.0,Statistics
+Senior Data Scientist,"Los Angeles, CA",2023-07-22 04:26:40,183000.0,R
+Business Analyst,"Chicago, IL",2023-07-22 04:26:40,,SQL
+Business Analyst,"Chicago, IL",2023-07-22 04:26:40,,Power BI
+Business Analyst,"Chicago, IL",2023-07-22 04:26:40,,Excel
+BI Developer,"Amarillo, TX",2023-07-22 04:26:40,,SQL
+BI Developer,"Amarillo, TX",2023-07-22 04:26:40,,Power BI
+BI Developer,"Amarillo, TX",2023-07-22 04:26:40,,ETL
+BI Developer,"Amarillo, TX",2023-07-22 04:26:40,,Communication
+BI Developer,"Amarillo, TX",2023-07-22 04:26:40,,Azure
+Senior Data Scientist,"Sunnyvale, CA",2023-07-22 04:26:40,183000.0,Python
+Senior Data Scientist,"Sunnyvale, CA",2023-07-22 04:26:40,183000.0,SQL
+Senior Data Scientist,"Sunnyvale, CA",2023-07-22 04:26:40,183000.0,Statistics
+Senior Data Scientist,"Sunnyvale, CA",2023-07-22 04:26:40,183000.0,R
+Business Analyst Intern- Spring 2024,"Highlands Ranch, CO",2023-07-22 04:26:40,,Communication
+Data Engineer,"New York, NY",2023-07-22 04:26:40,,SQL
+Data Engineer,"New York, NY",2023-07-22 04:26:40,,ETL
+Data Engineer,"New York, NY",2023-07-22 04:26:40,,Communication
+Data Engineer IV,"Dallas, TX",2023-07-22 04:26:40,134808.0,SQL
+Data Engineer IV,"Dallas, TX",2023-07-22 04:26:40,134808.0,Tableau
+Data Engineer IV,"Dallas, TX",2023-07-22 04:26:40,134808.0,ETL
+Data Engineer IV,"Dallas, TX",2023-07-22 04:26:40,134808.0,Communication
+"Data Engineer with Python AWS, ETL with 10+years exp","Dallas, TX",2023-07-22 04:26:40,,Python
+"Data Engineer with Python AWS, ETL with 10+years exp","Dallas, TX",2023-07-22 04:26:40,,SQL
+"Data Engineer with Python AWS, ETL with 10+years exp","Dallas, TX",2023-07-22 04:26:40,,ETL
+"Data Engineer with Python AWS, ETL with 10+years exp","Dallas, TX",2023-07-22 04:26:40,,AWS
+Data Scientist,"Idaho Falls, ID",2023-07-22 04:26:40,135414.0,SQL
+Data Scientist,"Idaho Falls, ID",2023-07-22 04:26:40,135414.0,Statistics
+Data Scientist,"Idaho Falls, ID",2023-07-22 04:26:40,135414.0,R
+Product Analytics Lead(Open to Remote),"Nashville, TN",2023-07-22 04:26:40,112250.0,Python
+Product Analytics Lead(Open to Remote),"Nashville, TN",2023-07-22 04:26:40,112250.0,SQL
+Product Analytics Lead(Open to Remote),"Nashville, TN",2023-07-22 04:26:40,112250.0,Tableau
+Lead Data Engineer,United States,2023-07-22 04:26:40,,Python
+Lead Data Engineer,United States,2023-07-22 04:26:40,,SQL
+Lead Data Engineer,United States,2023-07-22 04:26:40,,AWS
+Data Engineer,"Arlington, VA",2023-07-22 04:26:40,95700.0,SQL
+Data Engineer,"Arlington, VA",2023-07-22 04:26:40,95700.0,Machine Learning
+Data Engineer,"Arlington, VA",2023-07-22 04:26:40,95700.0,ETL
+Data Engineer,"Arlington, VA",2023-07-22 04:26:40,95700.0,AWS
+Data Engineer,"Arlington, VA",2023-07-22 04:26:40,95700.0,Azure
+BI Developer - Remote,"Providence, RI",2023-07-22 04:26:40,114753.6,Python
+BI Developer - Remote,"Providence, RI",2023-07-22 04:26:40,114753.6,SQL
+BI Developer - Remote,"Providence, RI",2023-07-22 04:26:40,114753.6,Power BI
+BI Developer - Remote,"Providence, RI",2023-07-22 04:26:40,114753.6,ETL
+BI Developer - Remote,"Providence, RI",2023-07-22 04:26:40,114753.6,Communication
+BI Developer - Remote,"Providence, RI",2023-07-22 04:26:40,114753.6,Azure
+Senior Data Engineer,United States,2023-07-22 04:26:40,,Python
+Senior Data Engineer,United States,2023-07-22 04:26:40,,SQL
+Senior Data Engineer,United States,2023-07-22 04:26:40,,Machine Learning
+Senior Data Engineer,United States,2023-07-22 04:26:40,,ETL
+Senior Data Engineer,United States,2023-07-22 04:26:40,,AWS
+Sr. Data Engineer,"Austin, TX",2023-07-22 04:26:40,140400.0,Python
+Sr. Data Engineer,"Austin, TX",2023-07-22 04:26:40,140400.0,AWS
+Financial Data Analyst (Python),"Columbia, MO",2023-07-22 04:26:40,,Python
+Financial Data Analyst (Python),"Columbia, MO",2023-07-22 04:26:40,,Excel
+Financial Data Analyst (Python),"Columbia, MO",2023-07-22 04:26:40,,Statistics
+Financial Data Analyst (Python),"Columbia, MO",2023-07-22 04:26:40,,Communication
+Financial Data Analyst (Python),"Columbia, MO",2023-07-22 04:26:40,,R
+ISC Analytics Manager,"South Bend, IN",2023-07-22 04:26:40,145000.0,SQL
+ISC Analytics Manager,"South Bend, IN",2023-07-22 04:26:40,145000.0,Tableau
+ISC Analytics Manager,"South Bend, IN",2023-07-22 04:26:40,145000.0,Machine Learning
+ISC Analytics Manager,"South Bend, IN",2023-07-22 04:26:40,145000.0,ETL
+ISC Analytics Manager,"South Bend, IN",2023-07-22 04:26:40,145000.0,Communication
+ISC Analytics Manager,"Greer, SC",2023-07-22 04:26:40,145000.0,SQL
+ISC Analytics Manager,"Greer, SC",2023-07-22 04:26:40,145000.0,Tableau
+ISC Analytics Manager,"Greer, SC",2023-07-22 04:26:40,145000.0,Machine Learning
+ISC Analytics Manager,"Greer, SC",2023-07-22 04:26:40,145000.0,ETL
+ISC Analytics Manager,"Greer, SC",2023-07-22 04:26:40,145000.0,Communication
+ISC Analytics Manager,"Torrance, CA",2023-07-22 04:26:40,145000.0,SQL
+ISC Analytics Manager,"Torrance, CA",2023-07-22 04:26:40,145000.0,Tableau
+ISC Analytics Manager,"Torrance, CA",2023-07-22 04:26:40,145000.0,Machine Learning
+ISC Analytics Manager,"Torrance, CA",2023-07-22 04:26:40,145000.0,ETL
+ISC Analytics Manager,"Torrance, CA",2023-07-22 04:26:40,145000.0,Communication
+ISC Analytics Manager,"Clearwater, FL",2023-07-22 04:26:40,145000.0,SQL
+ISC Analytics Manager,"Clearwater, FL",2023-07-22 04:26:40,145000.0,Tableau
+ISC Analytics Manager,"Clearwater, FL",2023-07-22 04:26:40,145000.0,Machine Learning
+ISC Analytics Manager,"Clearwater, FL",2023-07-22 04:26:40,145000.0,ETL
+ISC Analytics Manager,"Clearwater, FL",2023-07-22 04:26:40,145000.0,Communication
+ISC Analytics Manager,"Minneapolis, MN",2023-07-22 04:26:40,145000.0,SQL
+ISC Analytics Manager,"Minneapolis, MN",2023-07-22 04:26:40,145000.0,Tableau
+ISC Analytics Manager,"Minneapolis, MN",2023-07-22 04:26:40,145000.0,Machine Learning
+ISC Analytics Manager,"Minneapolis, MN",2023-07-22 04:26:40,145000.0,ETL
+ISC Analytics Manager,"Minneapolis, MN",2023-07-22 04:26:40,145000.0,Communication
+ISC Analytics Manager,"Redmond, WA",2023-07-22 04:26:40,145000.0,SQL
+ISC Analytics Manager,"Redmond, WA",2023-07-22 04:26:40,145000.0,Tableau
+ISC Analytics Manager,"Redmond, WA",2023-07-22 04:26:40,145000.0,Machine Learning
+ISC Analytics Manager,"Redmond, WA",2023-07-22 04:26:40,145000.0,ETL
+ISC Analytics Manager,"Redmond, WA",2023-07-22 04:26:40,145000.0,Communication
+Healthcare Data Analyst,"San Diego, CA",2023-07-22 04:26:40,80600.0,SQL
+Healthcare Data Analyst,"San Diego, CA",2023-07-22 04:26:40,80600.0,Statistics
+Healthcare Data Analyst,"San Diego, CA",2023-07-22 04:26:40,80600.0,Azure
+Cloud Engineer - Security Analytics,"Merrimack, NH",2023-07-22 04:26:40,,Python
+Senior Data Scientist,"Roseland, NJ",2023-07-22 04:26:40,,Python
+Senior Data Scientist,"Roseland, NJ",2023-07-22 04:26:40,,Tableau
+Senior Data Scientist,"Roseland, NJ",2023-07-22 04:26:40,,Excel
+Senior Data Scientist,"Roseland, NJ",2023-07-22 04:26:40,,Machine Learning
+Senior Data Scientist,"Roseland, NJ",2023-07-22 04:26:40,,Statistics
+Senior Data Scientist,"Roseland, NJ",2023-07-22 04:26:40,,Communication
+Senior Data Scientist,"Roseland, NJ",2023-07-22 04:26:40,,R
+Junior Business Analyst,"Arlington, VA",2023-07-22 04:26:40,,Excel
+Junior Business Analyst,"Arlington, VA",2023-07-22 04:26:40,,Communication
+Cloud Engineer - Security Analytics,"Westlake, TX",2023-07-22 04:26:40,,Python
+ERP Business Analyst,"Norwood, MA",2023-07-22 04:26:40,100000.0,SQL
+ERP Business Analyst,"Norwood, MA",2023-07-22 04:26:40,100000.0,Excel
+ERP Business Analyst,"Norwood, MA",2023-07-22 04:26:40,100000.0,Communication
+Analytics Developer II Remote,"Dallas, TX",2023-07-22 04:26:40,88015.0,SQL
+Analytics Developer II Remote,"Dallas, TX",2023-07-22 04:26:40,88015.0,Power BI
+Analytics Developer II Remote,"Dallas, TX",2023-07-22 04:26:40,88015.0,Tableau
+Analytics Developer II Remote,"Dallas, TX",2023-07-22 04:26:40,88015.0,Statistics
+Analytics Developer II Remote,"Dallas, TX",2023-07-22 04:26:40,88015.0,Communication
+Analytics Developer II Remote,"Dallas, TX",2023-07-22 04:26:40,88015.0,R
+"Software/Data Engineer, NA Integrated Analytics (2024 New Grad - New York)",New York City Metropolitan Area,2023-07-22 04:26:40,,Python
+"Software/Data Engineer, NA Integrated Analytics (2024 New Grad - New York)",New York City Metropolitan Area,2023-07-22 04:26:40,,SQL
+"Software/Data Engineer, NA Integrated Analytics (2024 New Grad - New York)",New York City Metropolitan Area,2023-07-22 04:26:40,,ETL
+"Software/Data Engineer, NA Integrated Analytics (2024 New Grad - New York)",New York City Metropolitan Area,2023-07-22 04:26:40,,Communication
+"Software/Data Engineer, NA Integrated Analytics (2024 New Grad - New York)",New York City Metropolitan Area,2023-07-22 04:26:40,,Azure
+Business Analyst,"Redmond, WA",2023-07-22 04:26:40,,Communication
+Business Analyst,"Houston, TX",2023-07-22 04:26:40,,Communication
+Business Analyst,"Los Angeles, CA",2023-07-22 04:26:40,,Communication
+"Sr. Analyst, Marketing Analytics","San Francisco, CA",2023-07-22 04:26:40,115000.0,SQL
+"Sr. Analyst, Marketing Analytics","San Francisco, CA",2023-07-22 04:26:40,115000.0,Tableau
+"Sr. Analyst, Marketing Analytics","San Francisco, CA",2023-07-22 04:26:40,115000.0,Excel
+"Sr. Analyst, Marketing Analytics","San Francisco, CA",2023-07-22 04:26:40,115000.0,Communication
+Eligibility Data Analyst # 3219,"Menlo Park, CA",2023-07-22 04:26:40,96000.0,Communication
+BI Developer,"New Jersey, United States",2023-07-22 04:26:40,,Python
+BI Developer,"New Jersey, United States",2023-07-22 04:26:40,,SQL
+BI Developer,"New Jersey, United States",2023-07-22 04:26:40,,AWS
+Master Data Analyst,"Akron, OH",2023-07-22 04:26:40,68316.0,SQL
+Master Data Analyst,"Akron, OH",2023-07-22 04:26:40,68316.0,Communication
+"Manager, Audience Analytics","New York, United States",2023-07-22 04:26:40,100000.0,Python
+"Manager, Audience Analytics","New York, United States",2023-07-22 04:26:40,100000.0,SQL
+"Manager, Audience Analytics","New York, United States",2023-07-22 04:26:40,100000.0,Tableau
+"Manager, Audience Analytics","New York, United States",2023-07-22 04:26:40,100000.0,Machine Learning
+"Manager, Audience Analytics","New York, United States",2023-07-22 04:26:40,100000.0,Communication
+Senior Business Analyst (Production Support),"New Haven, CT",2023-07-22 04:26:40,101500.0,SQL
+Senior Business Analyst (Production Support),"New Haven, CT",2023-07-22 04:26:40,101500.0,Excel
+Senior Business Analyst (Production Support),"New Haven, CT",2023-07-22 04:26:40,101500.0,Communication
+Data Engineer,"Grand Rapids, MI",2023-07-22 04:26:40,,ETL
+Data Engineer,"Grand Rapids, MI",2023-07-22 04:26:40,,Azure
+Sr. Power BI Developer (PowerApps),"Durham, NC",2023-07-22 04:26:40,,SQL
+Sr. Power BI Developer (PowerApps),"Durham, NC",2023-07-22 04:26:40,,Power BI
+Sr. Power BI Developer (PowerApps),"Durham, NC",2023-07-22 04:26:40,,Tableau
+Sr. Power BI Developer (PowerApps),"Durham, NC",2023-07-22 04:26:40,,Communication
+Sr. Power BI Developer (PowerApps),"Durham, NC",2023-07-22 04:26:40,,AWS
+Salesforce Communication Cloud Business Analyst,United States,2023-07-22 04:26:40,,Communication
+Marketing Insights and Data Analytics Manager,"Owings Mills, MD",2023-07-22 04:26:40,117500.0,SQL
+Marketing Insights and Data Analytics Manager,"Owings Mills, MD",2023-07-22 04:26:40,117500.0,Power BI
+Marketing Insights and Data Analytics Manager,"Owings Mills, MD",2023-07-22 04:26:40,117500.0,Tableau
+Marketing Insights and Data Analytics Manager,"Owings Mills, MD",2023-07-22 04:26:40,117500.0,Statistics
+Marketing Insights and Data Analytics Manager,"Owings Mills, MD",2023-07-22 04:26:40,117500.0,Communication
+Credit Data Analyst II,"Lawrenceville, GA",2023-07-22 04:26:40,90000.0,SQL
+Credit Data Analyst II,"Lawrenceville, GA",2023-07-22 04:26:40,90000.0,Excel
+Credit Data Analyst II,"Lawrenceville, GA",2023-07-22 04:26:40,90000.0,Statistics
+Credit Data Analyst II,"Lawrenceville, GA",2023-07-22 04:26:40,90000.0,Communication
+Credit Data Analyst II,"Lawrenceville, GA",2023-07-22 04:26:40,90000.0,R
+"Wholesale Business Analyst - Montvale, NJ (Hybrid)","Montvale, NJ",2023-07-22 04:26:40,75000.0,SQL
+"Wholesale Business Analyst - Montvale, NJ (Hybrid)","Montvale, NJ",2023-07-22 04:26:40,75000.0,Excel
+Software Data Engineer (Scala/Python),"Chicago, IL",2023-07-22 04:26:40,,Python
+Software Data Engineer (Scala/Python),"Chicago, IL",2023-07-22 04:26:40,,ETL
+Power BI Developer,"Raleigh, NC",2023-07-22 04:26:40,,SQL
+Power BI Developer,"Raleigh, NC",2023-07-22 04:26:40,,Power BI
+Power BI Developer,"Raleigh, NC",2023-07-22 04:26:40,,ETL
+Power BI Developer,"Raleigh, NC",2023-07-22 04:26:40,,Azure
+"Senior Manager, Data Architecture and Data Engineering",Greater Philadelphia,2023-07-22 04:26:40,,SQL
+"Senior Manager, Data Architecture and Data Engineering",Greater Philadelphia,2023-07-22 04:26:40,,Machine Learning
+"Senior Manager, Data Architecture and Data Engineering",Greater Philadelphia,2023-07-22 04:26:40,,ETL
+"Senior Manager, Data Architecture and Data Engineering",Greater Philadelphia,2023-07-22 04:26:40,,Communication
+"Senior Manager, Data Architecture and Data Engineering",Greater Philadelphia,2023-07-22 04:26:40,,AWS
+"Senior Manager, Data Architecture and Data Engineering",Greater Philadelphia,2023-07-22 04:26:40,,Azure
+Azure Data Engineer,United States,2023-07-22 04:26:40,135200.0,Python
+Azure Data Engineer,United States,2023-07-22 04:26:40,135200.0,SQL
+Azure Data Engineer,United States,2023-07-22 04:26:40,135200.0,ETL
+Azure Data Engineer,United States,2023-07-22 04:26:40,135200.0,Communication
+Azure Data Engineer,United States,2023-07-22 04:26:40,135200.0,Azure
+IT Senior Business Analyst,"Loudon, TN",2023-07-22 04:26:40,,SQL
+IT Senior Business Analyst,"Loudon, TN",2023-07-22 04:26:40,,Excel
+IT Senior Business Analyst,"Loudon, TN",2023-07-22 04:26:40,,ETL
+IT Senior Business Analyst,"Loudon, TN",2023-07-22 04:26:40,,AWS
+Senior SAP FI/CO Business Analyst,Cincinnati Metropolitan Area,2023-07-22 04:26:40,130000.0,Communication
+Data Analyst - Remote / Contract,"Palo Alto, CA",2023-07-22 04:26:40,161200.0,SQL
+Data Analyst - Remote / Contract,"Palo Alto, CA",2023-07-22 04:26:40,161200.0,Power BI
+Data Analyst - Remote / Contract,"Palo Alto, CA",2023-07-22 04:26:40,161200.0,Tableau
+Data Analyst - Remote / Contract,"Palo Alto, CA",2023-07-22 04:26:40,161200.0,Statistics
+Data Analyst - Remote / Contract,"Palo Alto, CA",2023-07-22 04:26:40,161200.0,ETL
+Data Analyst - Remote / Contract,"Palo Alto, CA",2023-07-22 04:26:40,161200.0,Communication
+Data Engineer,United States,2023-07-22 04:26:40,,SQL
+Data Engineer,United States,2023-07-22 04:26:40,,Azure
+New Grad - Data Analyst II,"Englewood, CO",2023-07-22 04:26:40,69700.0,Python
+New Grad - Data Analyst II,"Englewood, CO",2023-07-22 04:26:40,69700.0,SQL
+New Grad - Data Analyst II,"Englewood, CO",2023-07-22 04:26:40,69700.0,Tableau
+New Grad - Data Analyst II,"Englewood, CO",2023-07-22 04:26:40,69700.0,Excel
+New Grad - Data Analyst II,"Englewood, CO",2023-07-22 04:26:40,69700.0,Statistics
+New Grad - Data Analyst II,"Englewood, CO",2023-07-22 04:26:40,69700.0,Communication
+New Grad - Data Analyst II,"Englewood, CO",2023-07-22 04:26:40,69700.0,R
+Data Engineer,"Atlanta, GA",2023-07-22 04:26:40,,Python
+Data Engineer,"Atlanta, GA",2023-07-22 04:26:40,,SQL
+Data Engineer,"Atlanta, GA",2023-07-22 04:26:40,,Tableau
+Data Engineer,"Atlanta, GA",2023-07-22 04:26:40,,Statistics
+Data Engineer,"Atlanta, GA",2023-07-22 04:26:40,,Communication
+Data Engineer,"Atlanta, GA",2023-07-22 04:26:40,,R
+"RPA Developer, Business Operations & Data Analytics",New York City Metropolitan Area,2023-07-22 04:26:40,115000.0,Python
+"RPA Developer, Business Operations & Data Analytics",New York City Metropolitan Area,2023-07-22 04:26:40,115000.0,SQL
+"RPA Developer, Business Operations & Data Analytics",New York City Metropolitan Area,2023-07-22 04:26:40,115000.0,Power BI
+"RPA Developer, Business Operations & Data Analytics",New York City Metropolitan Area,2023-07-22 04:26:40,115000.0,Tableau
+"RPA Developer, Business Operations & Data Analytics",New York City Metropolitan Area,2023-07-22 04:26:40,115000.0,Statistics
+"RPA Developer, Business Operations & Data Analytics",New York City Metropolitan Area,2023-07-22 04:26:40,115000.0,Communication
+Data Engineer (W2 ONLY),United States,2023-07-22 04:26:40,,Python
+Data Engineer (W2 ONLY),United States,2023-07-22 04:26:40,,SQL
+Data Engineer (W2 ONLY),United States,2023-07-22 04:26:40,,ETL
+Senior Data Scientist,"Chicago, IL",2023-07-22 04:26:40,,Python
+Senior Data Analyst (Onsite),"Plano, TX",2023-07-22 04:26:40,,SQL
+Senior Data Analyst (Onsite),"Plano, TX",2023-07-22 04:26:40,,Tableau
+Business Analyst – Entry Level,"Charleston, SC",2023-07-22 04:26:40,64100.0,Communication
+Pricing Data Analyst,"Charlotte, NC",2023-07-22 04:26:40,,Tableau
+Pricing Data Analyst,"Charlotte, NC",2023-07-22 04:26:40,,Excel
+Pricing Data Analyst,"Charlotte, NC",2023-07-22 04:26:40,,Communication
+Staff Data Engineer,United States,2023-07-22 04:26:40,162500.0,Python
+Staff Data Engineer,United States,2023-07-22 04:26:40,162500.0,SQL
+Staff Data Engineer,United States,2023-07-22 04:26:40,162500.0,Machine Learning
+Staff Data Engineer,United States,2023-07-22 04:26:40,162500.0,R
+Staff Data Engineer,United States,2023-07-22 04:26:40,162500.0,AWS
+Proposal Coordinator / Business Analyst,United States,2023-07-22 04:26:40,55000.0,Excel
+Basel Business Analyst,"Washington, DC",2023-07-22 04:26:40,,SQL
+Basel Business Analyst,"Washington, DC",2023-07-22 04:26:40,,Excel
+Data Engineer II - NBC Sports Next,"Minneapolis, MN",2023-07-22 04:26:40,,Python
+Data Engineer II - NBC Sports Next,"Minneapolis, MN",2023-07-22 04:26:40,,SQL
+Data Engineer II - NBC Sports Next,"Minneapolis, MN",2023-07-22 04:26:40,,Tableau
+Data Engineer II - NBC Sports Next,"Minneapolis, MN",2023-07-22 04:26:40,,ETL
+Data Engineer II - NBC Sports Next,"Minneapolis, MN",2023-07-22 04:26:40,,AWS
+Business Analyst/Data Remediation,"Charlotte, NC",2023-07-22 04:26:40,78000.0,Excel
+Business Analyst/Data Remediation,"Charlotte, NC",2023-07-22 04:26:40,78000.0,Communication
+Client Analytics Manager,United States,2023-07-22 04:26:40,117500.0,SQL
+Client Analytics Manager,United States,2023-07-22 04:26:40,117500.0,Statistics
+Senior Data Engineer,Atlanta Metropolitan Area,2023-07-22 04:26:40,170000.0,Python
+Senior Data Engineer,Atlanta Metropolitan Area,2023-07-22 04:26:40,170000.0,SQL
+Senior Data Engineer,Atlanta Metropolitan Area,2023-07-22 04:26:40,170000.0,Power BI
+Senior Data Engineer,Atlanta Metropolitan Area,2023-07-22 04:26:40,170000.0,Tableau
+Senior Data Engineer,Atlanta Metropolitan Area,2023-07-22 04:26:40,170000.0,ETL
+Senior Data Engineer,Atlanta Metropolitan Area,2023-07-22 04:26:40,170000.0,Azure
+Data Engineer,"Seattle, WA",2023-07-22 04:26:40,,Communication
+Business Analytics Consultant- Revenue Cycle,United States,2023-07-22 04:26:40,95000.0,SQL
+"Manager, Strategic Analytics & Business Intelligence",San Diego Metropolitan Area,2023-07-22 04:26:40,160000.0,Python
+"Manager, Strategic Analytics & Business Intelligence",San Diego Metropolitan Area,2023-07-22 04:26:40,160000.0,SQL
+"Manager, Strategic Analytics & Business Intelligence",San Diego Metropolitan Area,2023-07-22 04:26:40,160000.0,Power BI
+"Manager, Strategic Analytics & Business Intelligence",San Diego Metropolitan Area,2023-07-22 04:26:40,160000.0,Tableau
+"Manager, Strategic Analytics & Business Intelligence",San Diego Metropolitan Area,2023-07-22 04:26:40,160000.0,Machine Learning
+"Manager, Strategic Analytics & Business Intelligence",San Diego Metropolitan Area,2023-07-22 04:26:40,160000.0,Communication
+"Manager, Strategic Analytics & Business Intelligence",San Diego Metropolitan Area,2023-07-22 04:26:40,160000.0,R
+Business Analyst - Cost Ctrl,"Aiken, SC",2023-07-22 04:26:40,,Excel
+"Senior Business Analyst, People Systems (Talent & Learning) * Hybrid * Seattle","Seattle, WA",2023-07-22 04:26:40,,Communication
+RCM Data Analyst,"Burlington, NC",2023-07-22 04:26:40,66297.0,SQL
+RCM Data Analyst,"Burlington, NC",2023-07-22 04:26:40,66297.0,Tableau
+RCM Data Analyst,"Burlington, NC",2023-07-22 04:26:40,66297.0,Excel
+RCM Data Analyst,"Burlington, NC",2023-07-22 04:26:40,66297.0,Communication
+Senior Business Analyst,"Dallas, TX",2023-07-22 04:26:40,,Communication
+Senior Business Analyst,"Dallas, TX",2023-07-22 04:26:40,,Azure
+Medicare Enrollment Business Analyst,United States,2023-07-22 04:26:40,64000.0,Excel
+Medicare Enrollment Business Analyst,United States,2023-07-22 04:26:40,64000.0,Communication
+Senior Business Analyst,"Cleveland, OH",2023-07-22 04:26:40,,Communication
+Senior Business Analyst,"Cleveland, OH",2023-07-22 04:26:40,,Azure
+Senior Business Analyst,"Fort Lauderdale, FL",2023-07-22 04:26:40,,Communication
+Senior Business Analyst,"Fort Lauderdale, FL",2023-07-22 04:26:40,,Azure
+Business Analyst,United States,2023-07-22 04:26:40,98000.0,Communication
+Senior Business Analyst,"Clayton, MO",2023-07-22 04:26:40,,Communication
+Senior Business Analyst,"Clayton, MO",2023-07-22 04:26:40,,Azure
+Senior Business Analyst,"Tampa, FL",2023-07-22 04:26:40,,Communication
+Senior Business Analyst,"Tampa, FL",2023-07-22 04:26:40,,Azure
+HR Intern: Global DEI Analytics,"Atlanta, GA",2023-07-22 04:26:40,44720.0,Statistics
+HR Intern: Global DEI Analytics,"Atlanta, GA",2023-07-22 04:26:40,44720.0,R
+Legal Student Employee - Operations & Data Analyst,"Knoxville, TN",2023-07-22 04:26:40,,R
+Data Scientist / Operations Research Analyst,"Colorado Springs, CO",2023-07-22 04:26:40,130000.0,Python
+Data Scientist / Operations Research Analyst,"Colorado Springs, CO",2023-07-22 04:26:40,130000.0,Machine Learning
+Data Engineering Product Lead (Hybrid),"West Point, PA",2023-07-22 04:26:40,248970.0,Python
+Data Engineering Product Lead (Hybrid),"West Point, PA",2023-07-22 04:26:40,248970.0,Machine Learning
+Data Engineering Product Lead (Hybrid),"West Point, PA",2023-07-22 04:26:40,248970.0,ETL
+Data Engineering Product Lead (Hybrid),"West Point, PA",2023-07-22 04:26:40,248970.0,Communication
+Data Engineering Product Lead (Hybrid),"West Point, PA",2023-07-22 04:26:40,248970.0,AWS
+OCM Data Analyst (Remote),"Fairfax, VA",2023-07-22 04:26:40,86500.0,ETL
+OCM Data Analyst (Remote),"Fairfax, VA",2023-07-22 04:26:40,86500.0,Communication
+Senior Supply Chain Data Analyst,"Irvine, CA",2023-07-22 04:26:40,92000.0,Tableau
+Senior Supply Chain Data Analyst,"Irvine, CA",2023-07-22 04:26:40,92000.0,Communication
